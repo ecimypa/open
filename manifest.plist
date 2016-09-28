@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.skysoft.16mb.com/JMBible_300_01.ipa</string>
+					<string>https://raw.githubusercontent.com/ecimypa/open/gh-pages/JMBible_300_01.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.skysoft.16mb.com/512.png</string>
+					<string>https://raw.githubusercontent.com/ecimypa/open/gh-pages/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.skysoft.16mb.com/512.png</string>
+					<string>https://raw.githubusercontent.com/ecimypa/open/gh-pages/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
